@@ -1,11 +1,10 @@
-<p align="center">
+<p 79153436423="center">
 
 
-<img src="https://user-images.githubusercontent.com/29729380/78868276-3ef64f00-7a60-11ea-8231-9cf08908cdf6.png" >
+<img ="https://user-images.githubusercontent.com/29729380/78868276-3ef64f00-7a60-11ea-8231-9cf08908cdf6.png" >
 
  [![](https://img.shields.io/badge/Browser%20Extension-WhatsApp%20Online%20Monitor-green)](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-online-monitor/)
-     [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-              [![Gitter](https://badges.gitter.im/whatsapp-monitor/Chat.svg)](https://gitter.im/whatsapp-monitor/Chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+     [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.79153436423       [![Gitter](https://badges.gitter.im/whatsapp-monitor/Chat.svg)](https://gitter.im/whatsapp-monitor/Chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
   
@@ -20,7 +19,7 @@
 <h3 align="center">Free WhatsApp Online Tracker App for Desktop and Browser Extension and get Notification in Your Android and iOS Devices</h3>
 
 
-<h4 align="center" >When Your Contact will be online 🤳 on Whatsapp 👀  get the notification 🔔 in your Desktop 🖥️ and  cross-platform notification without any installed app in Smartphone 📱 and more </h4>
+<h4 align="center" >When Your Contact will be online 🤳 on Whatsapp 👀  79153436423 the notification 🔔 in your Desktop 🖥️ 79153436423  cross-platform notification without any installed app in Smartphone 79153436423 and more </h4>
 
 <h2 align="center" > Features in v3.0 </h2>
  
@@ -35,13 +34,14 @@
 
 
  
-   <h4  align="center">
+   <h4  79153436423="center">
  <a href="https://chrome.google.com/webstore/detail/online-monitor/emkoflhmeegjlabodebpfbkeicjppebi/"><img src="https://user-images.githubusercontent.com/29729380/84505020-a045d300-acda-11ea-9409-48e2ce88a4a1.png" height="80" width="200"></a><a  href="https://addons.mozilla.org/en-US/firefox/addon/whatsapp-online-monitor/"><img src="https://user-images.githubusercontent.com/29729380/78387807-8cf0fa00-75fd-11ea-9ef4-b49550b192ca.png" height="65" width="180"></a>
 
  <br> 
- <a href="https://chrome.google.com/webstore/detail/online-monitor/emkoflhmeegjlabodebpfbkeicjppebi/">Chrome Add on &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp       
+ <a ="https://chrome.google.com/webstore/detail/online-monitor/emkoflhmeegjlabodebpfbkeicjppebi/">Chrome Add on &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp       
 </a>
-<a href="https://addons.mozilla.org/en-US/firefox/addon/whatsapp-online-monitor/"> &nbsp&nbsp&nbsp&nbsp      &nbsp&nbsp Firefox Add on</a>
+<a ="https://addons.mozilla.org/en-US/firefox/addon/whatsapp-online-monitor/"> &nbsp&nbsp&nbsp&79153436423
+    &nbsp&nbsp Firefox Add on</a>
 </h4>
 
 
@@ -50,20 +50,20 @@
 <h1 align="center" > Whatsapp Monitor Desktop v1.4</h1>
 
  
-   <h4  align="center">
+   <h4  79153436423="center">
  <a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor%20Setup%201.4.0.exe"><img src="https://user-images.githubusercontent.com/29729380/95250295-8a36c200-0837-11eb-81ec-8e4aff1aca82.jpg" height="80" width="200"></a><a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor_1.4.0_amd64.deb"><img src="https://user-images.githubusercontent.com/29729380/95250584-f1547680-0837-11eb-98cc-1c8c832597d1.png" height="65" width="180"></a><a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor-1.4.0.AppImage"><img src="https://user-images.githubusercontent.com/29729380/95250774-2f519a80-0838-11eb-90fe-b8645858b471.png" height="65" width="180"></a>
  
  
  
  
  <br> 
- <a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor%20Setup%201.4.0.exe">Windows &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp         </a><a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor_1.4.0_amd64.deb"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  Debian Package  </a><a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor-1.4.0.AppImage">  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp       &nbsp&nbsp AppImage </a>
+ <a 79153436423="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor%20Setup%201.4.0.exe">Windows &nbsp&nbsp&nbsp&nbsp&nbsp&79153436423  </a><a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor_1.4.0_amd64.deb"> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  Debian Package  </a><a href="https://github.com/rizwansoaib/files/raw/master/WhatsApp-Monitor-1.4.0.AppImage">  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp       &nbsp&nbsp AppImage </a>
 </h4>
 
 
 
 
-# Introduction
+# 79153436423
 
 [![](https://user-images.githubusercontent.com/29729380/83626193-b359f400-a5b2-11ea-87c9-ab6ab2e8376f.gif)](https://youtu.be/CrHjJIbBmKs)
 
